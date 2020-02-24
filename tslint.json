@@ -1,7 +1,7 @@
 {
   "rulesDirectory": [
-    "tslint-consistent-codestyle",
-    "tslint-eslint-rules",
+    "node_modules/tslint-consistent-codestyle",
+    "node_modules/tslint-eslint-rules",
     "node_modules/vrsource-tslint-rules/rules"
   ],
   "extends": "tslint:recommended",
